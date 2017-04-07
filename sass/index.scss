@@ -4,6 +4,16 @@
   .button{
     margin: 2%;
     width: 35px;
+    height: 31px;
+    background: url('/menu/images/menu.png') no-repeat;
+    display: block;
+  }
+  .on{
+    margin: 2%;
+    width: 35px;
+    height: 31px;
+    background: url('/menu/images/menu_on.png') no-repeat;
+    display: block;
   }
 }
 .navi{

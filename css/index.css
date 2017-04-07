@@ -1,1 +1,1 @@
-.menu{width:100%}.menu .button{margin:2%;width:35px}.navi{background:#a6a6a6}.navi li{padding:4%;text-align:center;border-bottom:1px solid #fff}.navi li a{text-decoration:none;color:#fff}
+.menu{width:100%}.menu .button{margin:2%;width:35px;height:31px;background:url(/menu/images/menu.png) no-repeat;display:block}.menu .on{margin:2%;width:35px;height:31px;background:url(/menu/images/menu_on.png) no-repeat;display:block}.navi{background:#a6a6a6}.navi li{padding:4%;text-align:center;border-bottom:1px solid #fff}.navi li a{text-decoration:none;color:#fff}
